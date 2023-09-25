@@ -9,10 +9,6 @@ body {
 .principal {
 background: #CCCCCC;
 padding: 30px;
-}
-
-h1 {
-     text-align: center;
 
 p {
     text-align: center
@@ -32,9 +28,6 @@ background: #FFFFFF;
 padding: 20px;
 }     
 
-.itens {
-font-style: italic;
-}
 
 .imagembeneficios {
 width: 50%;
